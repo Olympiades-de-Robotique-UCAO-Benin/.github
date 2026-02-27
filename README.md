@@ -76,13 +76,16 @@ Chaque équipe inscrite dispose de :
 📚 Des ressources techniques fournies par UCAO-TECH
 
 ```
-📁 Organisation GitHub UCAO-TECH
-├── 📖 README (ce fichier)
-├── 🤖 team-{nom-équipe}/       → Code source du robot + documentation
-├── 📋 reglement/               → Règlement officiel et cahier des charges
-├── 📊 resultats/               → Résultats des matchs et classements
-├── 🛠️  ressources/             → Tutoriels, bibliothèques, guides de démarrage
-└── 📸 media/                   → Photos et médias officiels de l'événement
+📁 Organisation GitHub — Olympiades-de-Robotique-UCAO-Benin
+├── 📖 .github/                       → Profil de l'organisation (ce README)
+├── 📋 guide-technique-officiel/      → Règlement officiel et cahier des charges
+├── 🛠️  ressources-formations/        → Tutoriels, supports techniques, guides
+├── 🤖 Team-RobotNics/                → Code source + documentation
+├── 🤖 Team-The-Winners/              → Code source + documentation
+├── 🤖 Team-Pixel/                    → Code source + documentation
+├── 🤖 Team-GhostBuster/              → Code source + documentation
+├── 🤖 Team-Wario-Tech/               → Code source + documentation
+└── 🤖 Team-Nova-Tech/                → Code source + documentation
 ```
 
 ---
@@ -103,10 +106,21 @@ Chaque équipe inscrite dispose de :
 
 ## 📚 Ressources
 
-📄 [Règlement officiel](#)
-🚀 [Guide de démarrage](#)
-📐 [Cahier des charges technique](#)
-📝 [Modèle de documentation](#)
+� [Guide technique officiel](https://github.com/Olympiades-de-Robotique-UCAO-Benin/guide-technique-officiel) — Règlement complet et cahier des charges
+🛠️ [Ressources & Formations](https://github.com/Olympiades-de-Robotique-UCAO-Benin/ressources-formations) — Supports pédagogiques, tutoriels et liens utiles
+
+---
+
+## 🤖 Les équipes participantes
+
+| Équipe | Devise |
+|---|---|
+| [🤖 Team-RobotNics](https://github.com/Olympiades-de-Robotique-UCAO-Benin/Team-RobotNics) | *Nous ne construisons pas seulement des robots, nous construisons l'avenir.* |
+| [🏆 Team-The-Winners](https://github.com/Olympiades-de-Robotique-UCAO-Benin/Team-The-Winners) | *Nous ne suivons pas la ligne, nous traçons la victoire.* |
+| [🎨 Team-Pixel](https://github.com/Olympiades-de-Robotique-UCAO-Benin/Team-Pixel) | *La vision naît d'un PIXEL, l'innovation naît de nous.* |
+| [👻 Team-GhostBuster](https://github.com/Olympiades-de-Robotique-UCAO-Benin/Team-GhostBuster) | *Les futuristes qui impactent aujourd'hui.* |
+| [⚡ Team-Wario-Tech](https://github.com/Olympiades-de-Robotique-UCAO-Benin/Team-Wario-Tech) | *L'audace numérique au service du futur.* |
+| [🌟 Team-Nova-Tech](https://github.com/Olympiades-de-Robotique-UCAO-Benin/Team-Nova-Tech) | *L'union fait la force, la diversité fait l'innovation.* |
 
 ---
 
@@ -115,6 +129,8 @@ Chaque équipe inscrite dispose de :
 📸 Suivez-nous sur Instagram — [@ucao_tech](#)
 
 💼 Connectez-vous sur LinkedIn — [UCAO-TECH](#)
+
+📧 Contactez-nous — [ucaotech@ucaobenin.org](mailto:ucaotech@ucaobenin.org)
 
 🧑‍🏫 Séances de mentorat et ateliers techniques organisés tout au long de la compétition
 
