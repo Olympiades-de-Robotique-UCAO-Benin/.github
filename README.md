@@ -1,225 +1,178 @@
-# 🤖 Olympiade de Robotique — UCAO-UUC
+# 🤖 Olympiade de Robotique UCAO Bénin
 
 <div align="center">
 
-![UCAO-TECH Banner](https://img.shields.io/badge/UCAO--TECH-Olympiade%20de%20Robotique-blue?style=for-the-badge)
-![Édition](https://img.shields.io/badge/Édition-2026-orange?style=for-the-badge)
-![Jubilé](https://img.shields.io/badge/Jubilé-25%20ans%20UCAO--UUC-gold?style=for-the-badge)
-
-> **Première édition lancée à l'occasion du Jubilé des 25 ans de l'UCAO-UUC**
+![UCAO-TECH](https://img.shields.io/badge/UCAO--TECH-Olympiade%20de%20Robotique-0057A8?style=for-the-badge&logo=github)
+![Édition 2026](https://img.shields.io/badge/Édition-2026-orange?style=for-the-badge)
+![Jubilé 25 ans](https://img.shields.io/badge/Jubilé-25%20ans%20UCAO--UUC-FFD700?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📖 Avant-propos
+Welcome to the **Olympiade de Robotique UCAO Bénin** – a student robotics competition organized by **UCAO-TECH**, bringing together multidisciplinary teams from the Université Catholique de l'Afrique de l'Ouest — UCAO-UUC!
 
-L'**Olympiade de Robotique** organisée par **UCAO-TECH** a été créée pour encourager l'innovation, la créativité et l'esprit scientifique au sein de notre université. Cette première édition est spécialement lancée à l'occasion du **jubilé des 25 ans de l'UCAO-UUC**, symbolisant un projet tourné vers l'avenir, la technologie et l'excellence académique.
+Bienvenue à l'**Olympiade de Robotique UCAO BéninC** – une compétition étudiante de robotique organisée par **UCAO-TECH**, réunissant des équipes pluridisciplinaires issues de l'Université Catholique de l'Afrique de l'Ouest — UCAO-UUC !
 
-Elle offre aux participants la chance de :
-- Concevoir leur propre robot et travailler en équipe
-- Résoudre des problèmes concrets dans un cadre compétitif et éducatif
-- Apprendre, collaborer et développer leurs connaissances en **robotique**, **programmation**, **électronique** et **mécanique**
-
----
-
-## 🏛️ À propos de l'UCAO-TECH
-
-**UCAO-TECH** est une initiative entièrement portée par des étudiants de l'UCAO-UUC, née pour créer un espace où technologie, innovation et créativité peuvent s'exprimer librement.
-
-**Notre mission :**
-- ✅ Promouvoir l'excellence scientifique et technique
-- ✅ Stimuler la créativité et l'innovation
-- ✅ Favoriser la collaboration et l'esprit d'équipe
-- ✅ Offrir des opportunités concrètes de développement personnel et professionnel
+> ORC is more than a competition — it's a technical, human, and collaborative adventure, launched to celebrate the **25th anniversary of UCAO-UUC**.
+>
+> L'ORC, c'est bien plus qu'un concours : c'est une aventure technique, humaine et collaborative, lancée pour célébrer le **jubilé des 25 ans de l'UCAO-UUC**.
 
 ---
 
-## 🎯 Objectifs de la compétition
+## 🎯 Mission / Objectif
 
-| Objectif | Description |
+To encourage innovation, interdisciplinary collaboration, and engineering excellence by challenging students to design, build, and program autonomous robots — combining mechanics, electronics, and software.
+
+Encourager l'innovation, la collaboration interdisciplinaire et l'excellence technique en proposant aux étudiant·e·s de concevoir, construire et programmer des robots autonomes — alliant mécanique, électronique et programmation.
+
+---
+
+## 🏛️ Who's Participating? / Qui participe ?
+
+🎓 Students enrolled at UCAO-UUC — all disciplines welcome
+🎓 Étudiant·e·s inscrit·e·s à l'UCAO-UUC — toutes filières confondues
+
+👥 Multidisciplinary teams of **7 members**, including at least **3 women**
+👥 Équipes pluridisciplinaires de **7 membres**, dont au minimum **3 étudiantes**
+
+⚙️ Each team combines skills across three key areas:
+⚙️ Chaque équipe combine des compétences dans trois domaines clés :
+
+🧠 **Software / Informatique** — Programming, embedded systems, algorithms
+🧠 **Logiciel** — Programmation, systèmes embarqués, algorithmes
+
+🔌 **Electronics / Électronique** — Sensors, actuators, controllers
+🔌 **Électronique** — Capteurs, actionneurs, contrôleurs
+
+🔧 **Mechanics / Mécanique** — Chassis design, mobility, structures
+🔧 **Mécanique** — Conception mécanique, mobilité, structures
+
+---
+
+## 🏁 Competition Format / Format de la compétition
+
+The ORC 2026 unfolds in **two complementary phases**:
+L'ORC 2026 se déroule en **deux phases complémentaires** :
+
+### ⚔️ Phase 1 — Direct Duels / Affrontements directs
+
+Robots compete head-to-head on a track featuring a **guidance line**, **obstacles**, and **reactive zones**.
+Les robots s'affrontent en duel sur un parcours comprenant une **ligne de guidage**, des **obstacles** et des **zones réactives**.
+
+- Matches played in a home-and-away format / Matchs en aller-retour
+- Tiebreaker: decisive third match / Égalité : 3ème match décisif
+- Supervised by official referees / Supervisé par des arbitres officiels
+
+### 🛤️ Phase 2 — Solo Run / Parcours individuel
+
+Each robot completes the track alone, judged by a panel of experts.
+Chaque robot effectue le parcours seul, évalué par un jury d'experts.
+
+| Criteria / Critère | Weight / Poids |
+|---|:---:|
+| ⚙️ Technical performance / Performance technique | **60%** |
+| 🗳️ Public vote / Vote du public | **40%** |
+
+> 🎨 The public vote also determines the **Best Design Award** / Le vote public désigne également le **Prix du Meilleur Design**.
+
+---
+
+## 🧠 GitHub Organization Structure / Structure de l'organisation GitHub
+
+This GitHub organization is the central hub for managing the competition — documentation, team repositories, resources and results.
+
+Cette organisation GitHub est le centre de coordination de la compétition — documentation, dépôts des équipes, ressources et résultats.
+
+Each registered team gets / Chaque équipe inscrite dispose de :
+
+📂 A dedicated repository for their **robot source code and documentation**
+📂 Un dépôt dédié à leur **code source et leur documentation**
+
+📋 Templates and workflows to support development
+📋 Des modèles et workflows pour faciliter le développement
+
+📚 Technical resources provided by UCAO-TECH
+📚 Des ressources techniques fournies par UCAO-TECH
+
+```
+📁 UCAO-TECH GitHub Organization
+├── 📖 README (this file / ce fichier)
+├── 🤖 team-{nom-équipe}/       → Robot source code + documentation
+├── 📋 reglement/               → Official rules and technical specifications
+├── 📊 resultats/               → Match results and rankings
+├── 🛠️  ressources/             → Tutorials, libraries, starter guides
+└── 📸 media/                   → Official photos and event media
+```
+
+---
+
+## 📋 Registration / Inscription
+
+| Condition | Detail |
 |---|---|
-| 🔧 **Compétences techniques** | Concevoir, programmer et construire des robots autonomes |
-| 💡 **Innovation & Créativité** | Imaginer des solutions originales en design, fonctionnalités et stratégie |
-| 🤝 **Travail d'équipe** | Coordination efficace entre tous les membres |
-| 👩‍💻 **Inclusion & Diversité** | Minimum 40% d'étudiantes par équipe |
-| 🏆 **Cadre compétitif** | Combiner vitesse, précision, adaptabilité et gestion des obstacles |
-| 🌟 **Esprit scientifique** | Expérimenter, poser des hypothèses et tester des idées en pratique |
+| 👥 Team size / Taille de l'équipe | 7 members / membres |
+| 👩‍💻 Female inclusion / Inclusion féminine | Min. **3 students** / étudiantes |
+| 🏫 Eligibility / Éligibilité | UCAO-UUC enrolled students / Étudiants inscrits |
+| 💰 Registration fee / Frais d'inscription | **20 000 FCFA** per team / par équipe |
+| 📸 Mandatory / Obligatoire | Training sessions + photo sessions / Formations + séances photo |
+
+> ⚠️ A student cannot be part of more than one team. Non-compliance → immediate disqualification.
+> ⚠️ Un étudiant ne peut pas faire partie de plusieurs équipes. Non-respect → disqualification immédiate.
 
 ---
 
-## 📋 Inscription des équipes
+## 📚 Resources / Ressources
 
-### 2.1 Composition des équipes (Édition 2026)
-
-| Critère | Détail |
-|---|---|
-| **Taille de l'équipe** | 7 membres |
-| **Participation féminine** | Minimum **3 étudiantes** par équipe |
-| **Éligibilité** | Étudiants inscrits à l'UCAO-UUC |
-| **Nom d'équipe** | Obligatoire — original et représentatif |
-
-### 2.2 Frais de participation
-
-> 💰 **20 000 FCFA** par équipe — réglés après validation de l'inscription par le comité organisateur.
-
-### 2.3 Obligations des équipes inscrites
-
-- 📚 **Formations d'initiation** : Participation obligatoire aux séances organisées par le comité
-- 📸 **Séances photo** : Toutes les équipes doivent être présentes aux séances photo officielles
-
-### 2.4 Conditions générales
-
-> ⚠️ Un étudiant **ne peut pas** faire partie de plusieurs équipes.  
-> ⚠️ Le non-respect de ces règles peut entraîner une **disqualification immédiate**.
-
-### 2.5 Conseils pour bien préparer l'inscription
-
-- 🎨 Réfléchissez à un nom d'équipe original et représentatif
-- 👩‍🔬 Impliquez pleinement les étudiantes dans la conception et la préparation
-- 🛠️ Formez une équipe complémentaire : mécanique, programmation, électronique, design
-- 🚀 Commencez à planifier le design du robot dès l'inscription
+📄 [Official Rulebook / Règlement officiel](#)
+🚀 [Getting Started Guide / Guide de démarrage](#)
+📐 [Technical Specifications / Cahier des charges technique](#)
+📝 [Documentation Template / Modèle de documentation](#)
 
 ---
 
-## 🏁 Structure de la compétition
+## 💬 Community / Communauté
 
-### Phase 1 — Affrontements directs (Matchs)
+📸 Follow us on Instagram / Suivez-nous sur Instagram — [@ucao_tech](#)
 
-Les robots s'affrontent en **duels** sur un parcours comprenant :
-- 📏 Une ligne de guidage à suivre avec précision
-- 🚧 Des obstacles à détecter et contourner
-- ⚡ Des zones testant la réactivité et l'adaptabilité
+💼 Connect on LinkedIn / Connectez-vous sur LinkedIn — [UCAO-TECH](#)
 
-**Format :**
-- Rencontres en **aller-retour**
-- En cas d'égalité : **3e match décisif**
-- Supervisé par des **arbitres officiels**
-
-**Critères d'évaluation :**
-
-```
-✔ Précision du suivi de ligne
-✔ Vitesse et temps de parcours
-✔ Stabilité et régularité du déplacement
-✔ Efficacité dans la gestion des obstacles
-✔ Capacité d'adaptation et de récupération
-```
+🧑‍🏫 Mentoring sessions and technical workshops organized throughout the competition
+🧑‍🏫 Séances de mentorat et ateliers techniques organisés tout au long de la compétition
 
 ---
 
-### Phase 2 — Épreuve individuelle (Parcours solo)
+## 🏆 What's at Stake? / Ce que vous pouvez gagner
 
-Chaque robot effectue le parcours **seul**, évalué par un **jury d'experts** (professionnels + enseignants).
+🥇 **1st Place / 1er Prix** — 150 000 FCFA
+🥈 **2nd Place / 2e Prix** — 100 000 FCFA
+🥉 **3rd Place / 3e Prix** — 50 000 FCFA
 
-#### 🔬 Performance technique — 60% de la note finale
+🎨 **Best Design Award / Prix du Meilleur Design** — Public vote / Vote du public
 
-| Critère | Évaluation |
-|---|---|
-| Vitesse et temps d'exécution | ✔ |
-| Précision du suivi de ligne | ✔ |
-| Stabilité et régularité | ✔ |
-| Gestion des obstacles | ✔ |
-| Réactivité et autonomie | ✔ |
-| Robustesse du robot | ✔ |
-| Design mécanique et électronique | ✔ |
-| Qualité du code et des algorithmes | ✔ |
-| Innovations et originalité | ✔ |
+🌟 **Best Mentor Award / Prix du Meilleur Mentor** — Special distinction / Distinction spéciale
 
-#### 🗳️ Vote du public — 40% de la note finale
-
-Un **vote public payant** est organisé pour permettre au public de soutenir l'équipe de leur choix, garantissant un vote sérieux et représentatif.
-
-> Le vote public permet également d'attribuer la **distinction "Meilleur Design"**.
+🌐 University-wide visibility and recognition in robotics and technology
+🌐 Visibilité au sein de l'UCAO-UUC et reconnaissance dans les domaines de la robotique et de la technologie
 
 ---
 
-## 🏆 Prix et récompenses
+## 🚀 Let's Build the Future — Together / Construisons l'avenir — Ensemble
 
-### Récompenses principales
+This GitHub organization is the hub for your team's collaboration, documentation, and progress.
+Cette organisation GitHub est le centre de gravité de votre équipe pour collaborer, documenter et progresser.
 
-<div align="center">
+> **Good luck to all teams! / Bonne chance à toutes les équipes !**
 
-| Classement | Prix |
-|:---:|:---:|
-| 🥇 1er Prix | **150 000 FCFA** |
-| 🥈 2e Prix | **100 000 FCFA** |
-| 🥉 3e Prix | **50 000 FCFA** |
-
-</div>
-
-### Distinctions spéciales
-
-| Distinction | Critère de sélection |
-|---|---|
-| 🎨 **Meilleur Design** | Vote du public — robot le plus créatif et innovant |
-| 🌟 **Meilleur Mentor** | Distinction attribuée au meilleur mentor de la compétition |
-
----
-
-## 📜 Règles et conduite
-
-### 5.1 Fair-play et intégrité
-- Respect obligatoire entre équipes, arbitres et jury
-- Toute **tricherie ou sabotage** → disqualification immédiate
-- Les décisions du jury sont **définitives et sans appel**
-
-### 5.2 Conformité du robot
-- Robot entièrement conçu par l'équipe participante
-- Fonctionnement **autonome** (pas de télécommande)
-- Dimensions et contraintes communiquées lors du briefing technique
-
-### 5.3 Parcours et pénalités
-- Sortie répétée de la ligne → **pénalité de points**
-- Mauvaise gestion des obstacles → **pénalité**
-
-### 5.4 Comportement général
-- Comportement **professionnel et respectueux** exigé
-- Collaboration et esprit d'équipe valorisés autant que la performance
-
----
-
-## 📅 Déroulement pratique
-
-```
-1. 📣 Briefing          → Séance explicative pour toutes les équipes
-2. ⚔️  Affrontements    → Duels organisés par tirage au sort
-3. 🛤️  Parcours solo    → Chaque robot effectue l'épreuve individuelle
-4. 🗳️  Vote public      → Élection du meilleur design + influence sur le classement
-5. 🏆 Remise des prix   → Annonce des résultats et cérémonie de remise des prix
-```
-
-> 📌 **Note importante :** Le programme détaillé avec les horaires précis sera communiqué après la phase d'inscription, afin de s'adapter au nombre d'équipes participantes.
-
----
-
-## 🗂️ Organisation de ce dépôt
-
-Ce dépôt GitHub est la plateforme officielle de gestion de l'**Olympiade de Robotique UCAO-TECH 2026**.
-
-```
-📁 Repositories
-├── 🤖 robots/              → Projets et codes sources des équipes
-├── 📋 reglement/           → Documents officiels et règlement complet
-├── 📊 resultats/           → Résultats des matchs et classements
-├── 🛠️  ressources/         → Tutoriels, bibliothèques et ressources techniques
-└── 📸 media/               → Photos et médias officiels de l'événement
-```
-
----
-
-## 📬 Contact
-
-Pour tout renseignement sur l'**Olympiade de Robotique UCAO-TECH**, contactez le comité organisateur via les canaux officiels de l'UCAO-UUC.
+*— UCAO-TECH — Par les étudiants, pour les étudiants / By students, for students*
 
 ---
 
 <div align="center">
 
-**UCAO-TECH** — *Par les étudiants, pour les étudiants*
-
-![Footer](https://img.shields.io/badge/UCAO--UUC-25%20ans%20d'excellence-blue?style=flat-square)
-![Innovation](https://img.shields.io/badge/Innovation-Technologie-green?style=flat-square)
-![Robotique](https://img.shields.io/badge/Robotique-2026-orange?style=flat-square)
+![UCAO-UUC](https://img.shields.io/badge/UCAO--UUC-25%20ans%20d'excellence-0057A8?style=flat-square)
+![Innovation](https://img.shields.io/badge/Innovation-Technologie-28A745?style=flat-square)
+![Robotics](https://img.shields.io/badge/Robotique-ORC%202026-orange?style=flat-square)
+![Inclusion](https://img.shields.io/badge/Inclusion-Diversité-purple?style=flat-square)
 
 </div>
