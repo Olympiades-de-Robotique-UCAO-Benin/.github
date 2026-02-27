@@ -1,4 +1,4 @@
-# 🤖 ORC 2026 – Olympiade de Robotique UCAO Bénin
+# 🤖 ORU 2026 – Olympiade de Robotique UCAO Bénin
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 Bienvenue à l'**ORC 2026 – Olympiade de Robotique UCAO Bénin** — une compétition étudiante de robotique organisée par **UCAO-TECH**, réunissant des équipes pluridisciplinaires issues de l'Université Catholique de l'Afrique de l'Ouest — UCAO-UUC !
 
-> L'ORC, c'est bien plus qu'un concours : c'est une aventure technique, humaine et collaborative, lancée pour célébrer le **jubilé des 25 ans de l'UCAO-UUC**.
+> L'ORU, c'est bien plus qu'un concours : c'est une aventure technique, humaine et collaborative, lancée pour célébrer le **jubilé des 25 ans de l'UCAO-UUC**.
 
 ---
 
@@ -40,7 +40,7 @@ Encourager l'innovation, la collaboration interdisciplinaire et l'excellence tec
 
 ## 🏁 Format de la compétition
 
-L'ORC 2026 se déroule en **deux phases complémentaires** :
+L'ORU 2026 se déroule en **deux phases complémentaires** :
 
 ### Phase 1 — Affrontements directs
 
@@ -100,9 +100,9 @@ Chaque équipe inscrite dispose de :
 
 ## 💬 Communauté
 
-Suivez-nous sur Instagram — [@ucao_tech](#)
+Suivez-nous sur Instagram — [@ucao_tech](https://www.instagram.com/ucaotech2026/)
 
-Connectez-vous sur LinkedIn — [UCAO-TECH](#)
+Connectez-vous sur LinkedIn — [UCAO-TECH](https://www.linkedin.com/company/ucao-tech)
 
 Contactez-nous — [ucaotech@ucaobenin.org](mailto:ucaotech@ucaobenin.org)
 
