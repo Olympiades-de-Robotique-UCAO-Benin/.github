@@ -125,7 +125,7 @@ Cette organisation GitHub est le centre de gravité de votre équipe pour collab
 
 ![UCAO-UUC](https://img.shields.io/badge/UCAO--UUC-25%20ans%20d'excellence-0057A8?style=flat-square)
 ![Innovation](https://img.shields.io/badge/Innovation-Technologie-28A745?style=flat-square)
-![Robotique](https://img.shields.io/badge/Robotique-ORC%202026-orange?style=flat-square)
+![Robotique](https://img.shields.io/badge/Robotique-ORU%202026-orange?style=flat-square)
 ![Inclusion](https://img.shields.io/badge/Inclusion-Diversité-purple?style=flat-square)
 
 </div>
