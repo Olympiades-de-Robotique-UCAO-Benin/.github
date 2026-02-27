@@ -75,33 +75,6 @@ Chaque équipe inscrite dispose de :
 
 📚 Des ressources techniques fournies par UCAO-TECH
 
-```
-📁 Organisation GitHub — Olympiades-de-Robotique-UCAO-Benin
-├── 📖 .github/                       → Profil de l'organisation (ce README)
-├── 📋 guide-technique-officiel/      → Règlement officiel et cahier des charges
-├── 🛠️  ressources-formations/        → Tutoriels, supports techniques, guides
-├── 🤖 Team-RobotNics/                → Code source + documentation
-├── 🤖 Team-The-Winners/              → Code source + documentation
-├── 🤖 Team-Pixel/                    → Code source + documentation
-├── 🤖 Team-GhostBuster/              → Code source + documentation
-├── 🤖 Team-Wario-Tech/               → Code source + documentation
-└── 🤖 Team-Nova-Tech/                → Code source + documentation
-```
-
----
-
-## 📋 Inscription
-
-| Condition | Détail |
-|---|---|
-| 👥 Taille de l'équipe | 7 membres |
-| 👩‍💻 Inclusion féminine | Min. **3 étudiantes** |
-| 🏫 Éligibilité | Étudiants inscrits à l'UCAO-UUC |
-| 💰 Frais d'inscription | **20 000 FCFA** par équipe |
-| 📸 Obligations | Formations d'initiation + séances photo officielles |
-
-> ⚠️ Un étudiant ne peut pas faire partie de plusieurs équipes. Non-respect → disqualification immédiate.
-
 ---
 
 ## 📚 Ressources
@@ -137,19 +110,6 @@ Chaque équipe inscrite dispose de :
 
 ---
 
-## 🏆 Prix et récompenses
-
-🥇 **1er Prix** — 150 000 FCFA
-🥈 **2e Prix** — 100 000 FCFA
-🥉 **3e Prix** — 50 000 FCFA
-
-🎨 **Prix du Meilleur Design** — Vote du public
-
-🌟 **Prix du Meilleur Mentor** — Distinction spéciale
-
-🌐 Visibilité au sein de l'UCAO-UUC et reconnaissance dans les domaines de la robotique et de la technologie
-
----
 
 ## 🚀 Construisons l'avenir — Ensemble
 
