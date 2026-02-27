@@ -107,6 +107,7 @@ Chaque équipe inscrite dispose de :
 ## 📚 Ressources
 
 � [Guide technique officiel](https://github.com/Olympiades-de-Robotique-UCAO-Benin/guide-technique-officiel) — Règlement complet et cahier des charges
+
 🛠️ [Ressources & Formations](https://github.com/Olympiades-de-Robotique-UCAO-Benin/ressources-formations) — Supports pédagogiques, tutoriels et liens utiles
 
 ---
@@ -156,7 +157,7 @@ Cette organisation GitHub est le centre de gravité de votre équipe pour collab
 
 > **Bonne chance à toutes les équipes !**
 
-*— UCAO-TECH — Par les étudiants, pour les étudiants*
+*UCAO-TECH — Par les étudiants, pour les étudiants*
 
 ---
 
