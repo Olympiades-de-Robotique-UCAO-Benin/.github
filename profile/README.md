@@ -30,11 +30,11 @@ Encourager l'innovation, la collaboration interdisciplinaire et l'excellence tec
 
 ⚙️ Chaque équipe combine des compétences dans trois domaines clés :
 
-🧠 **Informatique** — Programmation, systèmes embarqués, algorithmes
+**Informatique** — Programmation, systèmes embarqués, algorithmes
 
-🔌 **Électronique** — Capteurs, actionneurs, contrôleurs
+**Électronique** — Capteurs, actionneurs, contrôleurs
 
-🔧 **Mécanique** — Conception mécanique, mobilité, structures
+**Mécanique** — Conception mécanique, mobilité, structures
 
 ---
 
@@ -42,7 +42,7 @@ Encourager l'innovation, la collaboration interdisciplinaire et l'excellence tec
 
 L'ORC 2026 se déroule en **deux phases complémentaires** :
 
-### ⚔️ Phase 1 — Affrontements directs
+### Phase 1 — Affrontements directs
 
 Les robots s'affrontent en duel sur un parcours comprenant une **ligne de guidage**, des **obstacles** et des **zones réactives**.
 
@@ -50,14 +50,14 @@ Les robots s'affrontent en duel sur un parcours comprenant une **ligne de guidag
 - Égalité : 3ème match décisif
 - Supervisé par des arbitres officiels
 
-### 🛤️ Phase 2 — Parcours individuel
+### Phase 2 — Parcours individuel
 
 Chaque robot effectue le parcours seul, évalué par un jury d'experts.
 
 | Critère | Poids |
 |---|:---:|
-| ⚙️ Performance technique | **60%** |
-| 🗳️ Vote du public | **40%** |
+| Performance technique | **60%** |
+| Vote du public | **40%** |
 
 > 🎨 Le vote du public désigne également le **Prix du Meilleur Design**.
 
@@ -79,9 +79,9 @@ Chaque équipe inscrite dispose de :
 
 ## 📚 Ressources
 
-� [Guide technique officiel](https://github.com/Olympiades-de-Robotique-UCAO-Benin/guide-technique-officiel) — Règlement complet et cahier des charges
+[Guide technique officiel](https://github.com/Olympiades-de-Robotique-UCAO-Benin/guide-technique-officiel) — Règlement complet et cahier des charges
 
-🛠️ [Ressources & Formations](https://github.com/Olympiades-de-Robotique-UCAO-Benin/ressources-formations) — Supports pédagogiques, tutoriels et liens utiles
+[Ressources & Formations](https://github.com/Olympiades-de-Robotique-UCAO-Benin/ressources-formations) — Supports pédagogiques, tutoriels et liens utiles
 
 ---
 
@@ -100,11 +100,11 @@ Chaque équipe inscrite dispose de :
 
 ## 💬 Communauté
 
-📸 Suivez-nous sur Instagram — [@ucao_tech](#)
+Suivez-nous sur Instagram — [@ucao_tech](#)
 
-💼 Connectez-vous sur LinkedIn — [UCAO-TECH](#)
+Connectez-vous sur LinkedIn — [UCAO-TECH](#)
 
-📧 Contactez-nous — [ucaotech@ucaobenin.org](mailto:ucaotech@ucaobenin.org)
+Contactez-nous — [ucaotech@ucaobenin.org](mailto:ucaotech@ucaobenin.org)
 
 🧑‍🏫 Séances de mentorat et ateliers techniques organisés tout au long de la compétition
 
