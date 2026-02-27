@@ -100,13 +100,14 @@ Chaque équipe inscrite dispose de :
 
 ## 💬 Communauté
 
-Suivez-nous sur Instagram — [@ucao_tech](https://www.instagram.com/ucaotech2026/)
+| Canal | Lien |
+|---|---|
+| 🌐 Site officiel | [olympiades-de-robotique-ucao-benin.github.io](https://olympiades-de-robotique-ucao-benin.github.io/) |
+| 📸 Instagram | [@ucao_tech](https://www.instagram.com/ucaotech2026/) |
+| 💼 LinkedIn | [UCAO-TECH](https://www.linkedin.com/company/ucao-tech) |
+| 📧 Contact | [ucaotech@ucaobenin.org](mailto:ucaotech@ucaobenin.org) |
 
-Connectez-vous sur LinkedIn — [UCAO-TECH](https://www.linkedin.com/company/ucao-tech)
-
-Contactez-nous — [ucaotech@ucaobenin.org](mailto:ucaotech@ucaobenin.org)
-
-🧑‍🏫 Séances de mentorat et ateliers techniques organisés tout au long de la compétition
+> 🧑‍🏫 Séances de mentorat et ateliers techniques organisés tout au long de la compétition.
 
 ---
 
